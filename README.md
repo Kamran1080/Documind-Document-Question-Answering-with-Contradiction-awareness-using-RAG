@@ -142,6 +142,4 @@ Typed data contracts between pipeline stages prevent silent failures. If Claude 
 - Future: contradiction confidence scoring
 - Future: side-by-side document diff view
 
-## Author
 
-Yuen Wei Ling — [GitHub](https://github.com/eyyuen) | [LinkedIn](https://www.linkedin.com/in/wei-ling-y-73b88122a/) | Singapore
